@@ -1,0 +1,16 @@
+{
+    "instructions": "instructions.md",
+    "csFiles": [
+        {
+            "file_path": "Program.cs",
+            "can_delete": false
+        }
+    ],
+    "can_add_files": false,
+    "result_checks": [
+        {
+            "type": "console_output",
+            "regex": "Hello World"
+        }
+    ]
+}

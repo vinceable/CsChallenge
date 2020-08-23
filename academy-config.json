@@ -1,0 +1,20 @@
+{
+    "language": "csharp",
+    "title": "Beginner C# Challenge",
+    "description": "Beginner course to test your C# skills by fixing these bugs.",
+    "environment": "console",
+    "sections": [
+        {
+            "title": "Bad Syntax",
+            "section_file": "Section1/lessons.json"
+        },
+        {
+            "title": "Have I broken Maths?",
+            "section_file": "Section2/lessons.json"
+        },
+        {
+            "title": "Have you gone Loopy?",
+            "section_file": "Section3/lessons.json"
+        }
+    ]
+}

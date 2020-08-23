@@ -1,0 +1,12 @@
+{
+    "lessons": [
+        {
+            "title": "Challenge 2.1",
+            "file_path": "Lesson1/files.json"
+        },
+        {
+            "title": "Challenge 2.2",
+            "file_path": "Lesson2/files.json"
+        }
+    ]
+}
